@@ -31,4 +31,8 @@
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
+![AbdullahAkhlaq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAkhlaq&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
+![AbdullahAkhlaq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAkhlaq&theme=vue-dark&hide_border=false)
+
+![AbdullahAkhlaq's Stats](https://github-readme-stats.vercel.app/api?username=AbdullahAkhlaq&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
