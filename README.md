@@ -47,7 +47,7 @@ I am <b>Abdullah Akhlaq</b>, a data analyst with a passion for transforming data
 
 - **[Amazon E-Commerce Sales Dashboard](https://github.com/AbdullahAkhlaq/AMAZON-E-COMMERCE-SALES-DASHBOARD):** An interactive dashboard providing an overview of sales performance on Amazon.
 - **[Prime Video Report](https://github.com/AbdullahAkhlaq/Prime-Video-Report):** A Power BI report analyzing Prime Video viewership data.
-- **[Sales Report](https://github.com/AbdullahAkhlaq/Sales-Report):** A Power BI report showcasing sales trends and metrics.
+- **[Sales Report](https://github.com/AbdullahAkhlaq/AMAZON-E-COMMERCE-SALES-DASHBOARD):** A Power BI report showcasing sales trends and metrics.
 
 
 ![AbdullahAkhlaq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAkhlaq&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
