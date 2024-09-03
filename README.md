@@ -1,6 +1,7 @@
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/abdullahakhlaq007/" target="_blank">Abdullah Akhlaq</a></h1>
+
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/abdullahakhlaq007/" target="_blank">Abdullah Akhlaq</a></h1>
 <img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194537501-d7d77a8f-1f6f-4e95-a6ee-b2d1439dd729.gif">
 
 ### About Me,
